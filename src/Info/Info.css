@@ -1,0 +1,11 @@
+h1{
+    color: burlywood;
+}
+.stats{
+    display: flex;
+    flex-direction: space-between;
+    padding: 10px;
+    gap: 100px;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+}
